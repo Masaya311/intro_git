@@ -1,0 +1,37 @@
+[33mcommit 4deee35534bee20bb4e77ce1b70d3f93aaba6352[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: github masaya <masaya-kitakawa-20c@stu.kbc.ac.jp>
+Date:   Thu May 11 12:06:59 2023 +0900
+
+    git Statusコマンド
+
+[33mcommit 38a72079a7cd0d7f572516bc50bef0e36a00080c[m
+Author: github masaya <masaya-kitakawa-20c@stu.kbc.ac.jp>
+Date:   Thu May 11 11:51:18 2023 +0900
+
+    複数ファイルのコミット
+
+[33mcommit d4550b9aec5bb4d634f8a0770a376b4354b87d6b[m
+Author: github masaya <masaya-kitakawa-20c@stu.kbc.ac.jp>
+Date:   Thu May 11 11:49:17 2023 +0900
+
+    second.txtの削除
+
+[33mcommit 7dc8a182e339917ba91ab36486e3ba9f05aaab7a[m
+Author: github masaya <masaya-kitakawa-20c@stu.kbc.ac.jp>
+Date:   Thu May 11 11:47:29 2023 +0900
+
+    second.txtを追加
+
+[33mcommit b13e5b1cf46864134e7d727de2a8d1940cca5f2f[m
+Author: github masaya <masaya-kitakawa-20c@stu.kbc.ac.jp>
+Date:   Thu May 11 11:43:26 2023 +0900
+
+    add commiのコマンドを追記
+    
+    講座3-4を受講した
+
+[33mcommit 90520a7aa587632b16704ef97b0113a2a0ac23b3[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: github masaya <masaya-kitakawa-20c@stu.kbc.ac.jp>
+Date:   Tue May 9 15:29:09 2023 +0900
+
+    initial commit
